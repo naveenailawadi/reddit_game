@@ -1,0 +1,7 @@
+{
+    "subreddit": "camping",
+    "keyword": "gear", "message": "Who is the founder of omniwoah? Find out to receive a prize!",
+    "winphrase": "jae ahn", "winner_subject": "WINNER-discount code inside",
+    "winner_message": "You have won a 20% discount code from OMNIWOAH!!! Use the code, reddit winner, for 20% off on your next checkout!",
+    "max_winners": 10, "max_calls": "10000",
+    "game_over_message": "-GAME CLOSED stay tuned...- * Game created by EntreDevelopers Lab. If you enjoyed this game or would like to make one like it, contact admin@entredeveloperslab.com or visit entredeveloperslab.com ."}
